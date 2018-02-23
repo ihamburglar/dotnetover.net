@@ -11,4 +11,4 @@ You can set up a simple web server by using 'python -m SimpleHTTPServer 8888' an
 This is a solution that generates an .exe that pulls the .Net assemblies over the net, just make sure you update the URL to point at the URL of the server you set up above.
 
 #### More info
-#TODO
+https://jimshaver.net/2018/02/22/net-over-net-breaking-the-boundaries-of-the-net-framework/
